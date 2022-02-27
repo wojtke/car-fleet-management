@@ -16,5 +16,5 @@ npm run dev
 php artisan serve
 ```
 
-
-
+### Demo
+![demo](https://user-images.githubusercontent.com/53000695/155893721-62965993-fd24-4661-922a-d64036a4bf41.gif)
