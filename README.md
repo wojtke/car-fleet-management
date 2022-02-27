@@ -1,6 +1,20 @@
-# car-fleet-management
-### Simple car fleet management system. 
+<p>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+</p>
 
-##### REST api
-##### front: vue.js, boostrap 4
-##### back: laravel (php)
+# Car fleet management
+A simple web app I created as an introduction to web programming.
+
+### Quick start
+```
+composer install
+php artisan migrate
+npm install
+npm run dev
+php artisan serve
+```
+
+
+
